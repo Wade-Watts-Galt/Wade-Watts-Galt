@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 
 
 ## 🔥 Language Progress
-<p align="center">
+<p style="margin-left: auto; margin-right: auto;">
   
 | Technology      | Proficiency |
 | --------------- | ----------- |
