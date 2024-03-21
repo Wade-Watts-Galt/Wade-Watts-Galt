@@ -18,17 +18,18 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 In my projects, I frequently utilize a mix of databases, back-end, and front-end technologies. Here's a snapshot of my expertise:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
-![Express.js](https://img.shields.io/badge/Express.js-Intermediate-yellow)
-![React.js](https://img.shields.io/badge/React.js-Advanced-blue)
-![PHP](https://img.shields.io/badge/PHP-Expert-purple)
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
-![Python](https://img.shields.io/badge/Python-Expert-blueviolet)
-![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-navy)
-![C#](https://img.shields.io/badge/C%23-Advanced-blue)
-![Java](https://img.shields.io/badge/Java-Expert-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellowgreen)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 
 
