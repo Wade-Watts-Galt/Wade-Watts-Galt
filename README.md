@@ -29,4 +29,16 @@ In my projects, I frequently utilize a mix of databases, back-end, and front-end
 
 
 ## 🔥 Language Progress
+MongoDB ![70%](https://progress-bar.dev/70/?title=MongoDB&width=70)
+Express.js ![60%](https://progress-bar.dev/60/?title=Express.js&width=60)
+React.js ![80%](https://progress-bar.dev/80/?title=React.js&width=80)
+PHP ![90%](https://progress-bar.dev/90/?title=PHP&width=90)
+SQL ![75%](https://progress-bar.dev/75/?title=SQL&width=75)
+Python ![95%](https://progress-bar.dev/95/?title=Python&width=95)
+C++ ![50%](https://progress-bar.dev/50/?title=C%2B%2B&width=50)
+C# ![85%](https://progress-bar.dev/85/?title=C%23&width=85)
+Java ![90%](https://progress-bar.dev/90/?title=Java&width=90)
+JavaScript ![80%](https://progress-bar.dev/80/?title=JavaScript&width=80)
+TensorFlow ![70%](https://progress-bar.dev/70/?title=TensorFlow&width=70)
+
 
