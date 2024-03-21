@@ -14,7 +14,15 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wade-Watts-Galt&show_icons=true)
+## 🌐 Languages & Technologies
+
+In my projects, I frequently utilize a mix of databases, back-end, and front-end technologies. Here's a snapshot of my expertise:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-Intermediate-yellowgreen?style=flat&logo=express)
+![React.js](https://img.shields.io/badge/React.js-Advanced-blue?style=flat&logo=react)
+![PHP](https://img.shields.io/badge/PHP-Expert-purple?style=flat&logo=php)
+
 
 ## 🔥 Language Progress
 
