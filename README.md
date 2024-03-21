@@ -27,6 +27,7 @@ Welcome to my GitHub profile!
 
 
 ## 🔥 Language Progress
+<p align="center">
 | Front-End Technologies | Proficiency | Back-End Technologies | Proficiency |
 |------------------------|-------------|-----------------------|-------------|
 | React.js               | ![80%](https://progress-bar.dev/80) | MongoDB             | ![70%](https://progress-bar.dev/70) |
@@ -37,5 +38,5 @@ Welcome to my GitHub profile!
 |                        |             | C++                  | ![50%](https://progress-bar.dev/50) |
 |                        |             | C#                   | ![85%](https://progress-bar.dev/85) |
 |                        |             | Java                 | ![90%](https://progress-bar.dev/90) |
-
+</p>
 
