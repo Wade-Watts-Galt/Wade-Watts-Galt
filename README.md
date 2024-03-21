@@ -9,8 +9,6 @@ Welcome to my GitHub profile!
 - 🌱 Currently learning SERN stack and Next.js development
 - 👀 Interested in physics, organic chemistry, and solving complex problems
 
-## 📈 GitHub Stats
-
 ## 🌐 Languages & Technologies
 
 In my projects, I frequently utilize a mix of databases, back-end, and front-end technologies. Here's a snapshot of my expertise:
