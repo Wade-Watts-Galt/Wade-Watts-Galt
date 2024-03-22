@@ -22,6 +22,8 @@ Welcome to my GitHub profile!
 ![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 
 
@@ -29,6 +31,8 @@ Welcome to my GitHub profile!
 ## 🔥 Language Progress
 | Front-End Technologies | Proficiency | Back-End Technologies | Proficiency |
 |------------------------|-------------|-----------------------|-------------|
+| HTML5                  | ![99%](https://progress-bar.dev/99) |             |
+| CSS3                   | ![99%](https://progress-bar.dev/99) |             |
 | React.js               | ![20%](https://progress-bar.dev/20) | MongoDB             | ![70%](https://progress-bar.dev/70) |
 | JavaScript             | ![70%](https://progress-bar.dev/70) | Express.js          | ![60%](https://progress-bar.dev/60) |
 | TensorFlow             | ![10%](https://progress-bar.dev/10) | SQL                 | ![80%](https://progress-bar.dev/80) |
