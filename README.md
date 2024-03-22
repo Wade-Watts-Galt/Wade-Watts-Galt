@@ -4,7 +4,6 @@ Welcome to my GitHub profile!
 
 ## 📚 About Me
 
-- 🎓 Studying Biomedical Engineering at Florida State University
 - 💼 Professional experience in web design and development
 - 🌱 Currently learning SERN stack and Next.js development
 - 👀 Interested in physics, organic chemistry, and solving complex problems
@@ -34,10 +33,10 @@ Welcome to my GitHub profile!
 |------------------------|-------------|-----------------------|-------------|
 | HTML5                  | ![99%](https://progress-bar.dev/99) | MongoDB             | ![70%](https://progress-bar.dev/70) |            |
 | CSS3                   | ![99%](https://progress-bar.dev/99) | Express.js          | ![60%](https://progress-bar.dev/60) |            |
-| React.js               | ![20%](https://progress-bar.dev/20) | SQL                 | ![80%](https://progress-bar.dev/80) | |
+| React.js               | ![30%](https://progress-bar.dev/20) | SQL                 | ![80%](https://progress-bar.dev/80) | |
 | JavaScript             | ![70%](https://progress-bar.dev/70) | Python               | ![45%](https://progress-bar.dev/45) | |
-| TensorFlow             | ![10%](https://progress-bar.dev/10) | PHP                  | ![99%](https://progress-bar.dev/99) | |
-|                        |             | C++                  | ![85%](https://progress-bar.dev/85) | |
+| TensorFlow             | ![5%](https://progress-bar.dev/10) | PHP                  | ![99%](https://progress-bar.dev/99) | |
+| Next.js                | ![5%](https://progress-bar.dev/10)| C++                  | ![85%](https://progress-bar.dev/85) | |
 |                        |             | C#                   | ![90%](https://progress-bar.dev/90) | |
 |                        |             | C++                  | ![85%](https://progress-bar.dev/85) | |
 |                        |             | Java                 | ![90%](https://progress-bar.dev/90) | |
