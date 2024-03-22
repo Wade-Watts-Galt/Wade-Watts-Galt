@@ -29,13 +29,13 @@ Welcome to my GitHub profile!
 ## 🔥 Language Progress
 | Front-End Technologies | Proficiency | Back-End Technologies | Proficiency |
 |------------------------|-------------|-----------------------|-------------|
-| React.js               | ![20%](https://progress-bar.dev/80) | MongoDB             | ![70%](https://progress-bar.dev/70) |
-| JavaScript             | ![70%](https://progress-bar.dev/80) | Express.js          | ![60%](https://progress-bar.dev/60) |
-| TensorFlow             | ![10%](https://progress-bar.dev/70) | SQL                 | ![80%](https://progress-bar.dev/75) |
-|                        |             | Python               | ![45%](https://progress-bar.dev/95) |
-|                        |             | PHP                  | ![99%](https://progress-bar.dev/90) |
-|                        |             | C++                  | ![85%](https://progress-bar.dev/50) |
-|                        |             | C#                   | ![90%](https://progress-bar.dev/85) |
+| React.js               | ![20%](https://progress-bar.dev/20) | MongoDB             | ![70%](https://progress-bar.dev/70) |
+| JavaScript             | ![70%](https://progress-bar.dev/70) | Express.js          | ![60%](https://progress-bar.dev/60) |
+| TensorFlow             | ![10%](https://progress-bar.dev/10) | SQL                 | ![80%](https://progress-bar.dev/80) |
+|                        |             | Python               | ![45%](https://progress-bar.dev/45) |
+|                        |             | PHP                  | ![99%](https://progress-bar.dev/99) |
+|                        |             | C++                  | ![85%](https://progress-bar.dev/85) |
+|                        |             | C#                   | ![90%](https://progress-bar.dev/90) |
 |                        |             | Java                 | ![90%](https://progress-bar.dev/90) |
 
 
